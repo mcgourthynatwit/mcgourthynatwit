@@ -7,7 +7,7 @@
 
 - 👯 I’ve recently finished [Deep Learning Dataset Scaler](https://github.com/nmcgourthy/datasetScaler)
 
-- 🤝 I’m looking for an **Spring 2024 Internship**
+- 🤝 I’m looking for an **Spring 2024 internship -- January start**
 
 - 💬 Graduation Date **April 2025**
 
