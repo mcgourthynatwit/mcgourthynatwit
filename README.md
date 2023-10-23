@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nicholas McGourthy</h1>
 <h3 align="center">A B.S. Computer Science student at Wentworth Institute of Technology in Boston</h3>
 
-- 🔭 I’m currently working on an **NFL Stat AWS Data Pipeline**
-
 - 🌱 I’m currently learning **GoLang and AWS Services**
 
 - 👯 I’ve recently finished [Deep Learning Dataset Scaler](https://github.com/nmcgourthy/datasetScaler)
 
 - 🤝 I’m looking for an **Spring 2024 internship -- January start**
 
-- 💬 Graduation Date **April 2025**
+- 💬 Graduation Date **August 2025**
 
 - 📫 How to reach me **mcgourthyn@wit.edu**
 
