@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas McGourthy</h1>
 <h3 align="center">A B.S. Computer Science student at Wentworth Institute of Technology in Boston</h3>
 
-- 🌱 I’m currently learning **Pandas, NumPY, MatPlotLib and PyTorch**
+- 🌱 I’m currently learning **Apache Spark via PySpark and PyTorch **
 
 - 👯 I’ve recently finished [Deep Learning Dataset Scaler](https://github.com/nmcgourthy/datasetScaler)
 
