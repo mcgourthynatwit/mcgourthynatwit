@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas McGourthy</h1>
 <h3 align="center">A B.S. Computer Science student at Wentworth Institute of Technology in Boston</h3>
 
-- 🌱 I’m currently learning ** Next.JS, AWS, Full Stack Development **
+- 🌱 I’m currently learning **Next.JS, AWS, Full Stack Development**
 
 - 👯 Working on a start up in stealth mode with aims for late **May 2024** beta release
 
