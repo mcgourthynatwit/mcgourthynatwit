@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.JS, AWS, Full Stack Development**
 
-- 👯 Working on a start up in stealth mode with aims for late **May 2024** beta release
+- 👯 Working on a start up in stealth mode
 
 - 💬 Graduation Date **August 2025**
 
