@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Next.JS, AWS, Full Stack Development**
 
-- 👯 Working on a start up in stealth mode
-
 - 💬 Graduation Date **August 2025**
 
 - 📫 How to reach me **mcgourthyn@wit.edu**
