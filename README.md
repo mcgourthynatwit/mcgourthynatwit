@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas McGourthy</h1>
 <h3 align="center">A B.S. Computer Science student at Wentworth Institute of Technology in Boston</h3>
 
-- 🌱 I’m currently learning **Next.JS, AWS, Full Stack Development**
-
 - 💬 Graduation Date **August 2025**
-
-- 📫 How to reach me **mcgourthyn@wit.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
